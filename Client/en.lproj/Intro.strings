@@ -1,0 +1,55 @@
+/* See http://mzl.la/1T8gxwo */
+"Browse multiple Web pages at the same time with tabs." = "Browse multiple Web pages at the same time with tabs.";
+
+/* See http://mzl.la/1T8gxwo */
+"Connect Qwant Junior everywhere you use it." = "Connect Qwant Junior everywhere you use it.";
+
+/* Description for the 'Mail' panel in the First Run tour. */
+"Intro.Slides.Mail.Description" = "Use any email app — not just Mail — with Qwant Junior.";
+
+/* Title for the fourth panel 'Mail' in the First Run tour. */
+"Intro.Slides.Mail.Title" = "You’ve got mail… options";
+
+/* Description for the 'Private Browsing' panel in the First Run tour. */
+"Intro.Slides.Private.Description" = "Tap the mask icon to slip into Private Browsing mode.";
+
+/* Title for the third panel 'Private Browsing' in the First Run tour. */
+"Intro.Slides.Private.Title" = "Browse like no one’s watching";
+
+/* Description for the 'Favorite Search Engine' panel in the First Run tour. */
+"Intro.Slides.Search.Description" = "Searching for something different? Choose another default search engine (or add your own) in Settings.";
+
+/* Title for the second  panel 'Search' in the First Run tour. */
+"Intro.Slides.Search.Title" = "Your search, your way";
+
+/* Description for the 'Sync' panel in the First Run tour. */
+"Intro.Slides.Sync.Description" = "Use Sync to find the bookmarks, passwords, and other things you save to Qwant Junior on all your devices.";
+
+/* Title for the fifth panel 'Sync' in the First Run tour. */
+"Intro.Slides.Sync.Title" = "Pick up where you left off";
+
+/* Description for the 'Welcome' panel in the First Run tour. */
+"Intro.Slides.Welcome.Description" = "A modern mobile browser from Qwant Junior, the non-profit committed to a free and open web.";
+
+/* Title for the first panel 'Welcome' in the First Run tour. */
+"Intro.Slides.Welcome.Title" = "Thanks for choosing Qwant Junior!";
+
+/* String spoken by assistive technology (like VoiceOver) stating on which page of the intro wizard we currently are. E.g. Introductory slide 1 of 3 */
+"Introductory slide %@ of %@" = "Introductory slide %1$@ of %2$@";
+
+/* See http://mzl.la/1T8gxwo */
+"Personalize your Qwant Junior just the way you like in Settings." = "Personalize your Qwant Junior just the way you like in Settings.";
+
+/* See http://mzl.la/1T8gxwo */
+"Sign in to Qwant Junior" = "Sign in to Qwant Junior";
+
+/* See http://mzl.la/1T8gxwo */
+"Start Browsing" = "Start Browsing";
+
+
+"Intro.Slides.Welcome2.Title" = "Welcome on board !";
+"Intro.Slides.Privacy.Title" = "Keep your kids safe when surfing the Internet";
+"Intro.Slides.Efficiency.Title" = "Tracking protection built-in for better privacy and less ads";
+"Intro.Slides.Welcome2.Description" = "Qwant Junior Mobile is a fun, safe and fluid browsing experience for kids.";
+"Intro.Slides.Privacy.Description" = "Qwant Junior hides inapropriate content such violence, porn, drugs, hate, and other search engines that may display these contents.";
+"Intro.Slides.Efficiency.Description" = "Qwant Junior neither tracks nor collects any data about your kid. Your kid's data will never be used to make money.";

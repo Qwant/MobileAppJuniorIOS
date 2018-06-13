@@ -1,0 +1,21 @@
+/* Header for the list of devices table */
+"Available devices:" = "கிடைக்கும் சாதனங்கள்:";
+
+/* Close button in top navigation bar */
+"Close" = "மூடு";
+
+/* See http://mzl.la/1ISlXnU */
+"Please open Firefox, go to Settings and sign in to continue." = "தயவுச்செய்து பயர்பாஃசு உலாவியைத் திறந்து, அமைவுகளுக்குச் சென்று உள்நுழைந்தப் பின் தொடரவும்.";
+
+/* Navigation bar button to Send the current page to a device */
+"Send" = "அனுப்பு";
+
+/* Title of the dialog that allows you to send a tab to a different device */
+"Send Tab" = "கீற்றை அனுப்பு";
+
+/* See http://mzl.la/1ISlXnU */
+"You are not signed in to your Firefox Account." = "நீங்கள் பயர்பாஃசு கணக்கில் உள்நுழையவில்லை.";
+
+/* Error message shown in the remote tabs panel */
+"You don’t have any other devices connected to this Firefox Account available to sync." = "நீங்கள் வைத்திருக்கும் பயர்பாஃசு கணக்குடன் ஒத்திசைக்க மற்ற சாதனங்கள் இணைக்கப்படவில்லை.";
+

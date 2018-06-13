@@ -1,0 +1,21 @@
+/* Header for the list of devices table */
+"Available devices:" = "Pajisje të mundshme:";
+
+/* Close button in top navigation bar */
+"Close" = "Mbylle";
+
+/* See http://mzl.la/1ISlXnU */
+"Please open Firefox, go to Settings and sign in to continue." = "Ju lutemi, që të vazhdohet, hapni Firefox-in, shkoni te Rregullimet dhe bëni hyrjen.";
+
+/* Navigation bar button to Send the current page to a device */
+"Send" = "Dërgoje";
+
+/* Title of the dialog that allows you to send a tab to a different device */
+"Send Tab" = "Dërgoje Skedën";
+
+/* See http://mzl.la/1ISlXnU */
+"You are not signed in to your Firefox Account." = "S’keni bërë hyrjen te Llogaria juaj Firefox.";
+
+/* Error message shown in the remote tabs panel */
+"You don’t have any other devices connected to this Firefox Account available to sync." = "S’keni ndonjë pajisje tjetër të lidhur te kjo Llogari Firefox-i të gatshme për njëkohësim.";
+

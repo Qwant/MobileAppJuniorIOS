@@ -1,0 +1,54 @@
+/* See http://mzl.la/1T8gxwo */
+"Browse multiple Web pages at the same time with tabs." = "Surfen Sie mit Tabs auf mehreren Webseiten gleichzeitig.";
+
+/* See http://mzl.la/1T8gxwo */
+"Connect Qwant Junior everywhere you use it." = "Verbinden Sie Qwant Junior, wo immer Sie ihn verwenden.";
+
+/* Description for the 'Mail' panel in the First Run tour. */
+"Intro.Slides.Mail.Description" = "Nutzen Sie eine beliebige E-Mail-App – nicht nur Mail – mit Qwant Junior.";
+
+/* Title for the fourth panel 'Mail' in the First Run tour. */
+"Intro.Slides.Mail.Title" = "Einstellungen zu E-Mails";
+
+/* Description for the 'Private Browsing' panel in the First Run tour. */
+"Intro.Slides.Private.Description" = "Tippen Sie auf das Maskensymbol, um den privaten Modus zu aktivieren.";
+
+/* Title for the third panel 'Private Browsing' in the First Run tour. */
+"Intro.Slides.Private.Title" = "Surfen Sie, als würde niemand zusehen";
+
+/* Description for the 'Favorite Search Engine' panel in the First Run tour. */
+"Intro.Slides.Search.Description" = "Suchen Sie etwas anderes? Wählen Sie in den Einstellungen eine andere Standardsuchmaschine (oder fügen Sie Ihre eigene hinzu).";
+
+/* Title for the second  panel 'Search' in the First Run tour. */
+"Intro.Slides.Search.Title" = "Ihre Suche, wie Sie möchten";
+
+/* Description for the 'Sync' panel in the First Run tour. */
+"Intro.Slides.Sync.Description" = "Nutzen Sie Sync, um die Lesezeichen, Passwörter und andere Daten in Qwant Junior auf allen Geräten zu nutzen.";
+
+/* Title for the fifth panel 'Sync' in the First Run tour. */
+"Intro.Slides.Sync.Title" = "Machen Sie da weiter, wo Sie aufgehört haben";
+
+/* Description for the 'Welcome' panel in the First Run tour. */
+"Intro.Slides.Welcome.Description" = "Ein moderner Browser für Mobilgeräte von Qwant Junior, der gemeinnützigen Organisation, die sich für ein freies und offenes Web einsetzt.";
+
+/* Title for the first panel 'Welcome' in the First Run tour. */
+"Intro.Slides.Welcome.Title" = "Danke, dass Sie sich für Qwant Junior entschieden haben!";
+
+/* String spoken by assistive technology (like VoiceOver) stating on which page of the intro wizard we currently are. E.g. Introductory slide 1 of 3 */
+"Introductory slide %@ of %@" = "Einführungsfolie %1$@ von %2$@";
+
+/* See http://mzl.la/1T8gxwo */
+"Personalize your Qwant Junior just the way you like in Settings." = "Passen Sie Ihren Qwant Junior über die Einstellungen an Ihre persönlichen Wünsche an.";
+
+/* See http://mzl.la/1T8gxwo */
+"Sign in to Qwant Junior" = "Bei Qwant Junior anmelden";
+
+/* See http://mzl.la/1T8gxwo */
+"Start Browsing" = "Lossurfen";
+
+"Intro.Slides.Welcome2.Title" = "Willkommen bei Qwant Junior Mobil";
+"Intro.Slides.Privacy.Title" = "Ihr Privatleben bleibt privat";
+"Intro.Slides.Efficiency.Title" = "Erleben Sie schnelle und effiziente Suchabläufe";
+"Intro.Slides.Welcome2.Description" = "Mit Qwant Junior Mobil durchsuchen Sie das Weib effizient mit absolutem Datenschutz.";
+"Intro.Slides.Privacy.Description" = "Qwant Junior möchte weder Ihre Suchabläufe noch die von Ihnen besuchten Websites sehen. Wir sammeln Ihre Daten nicht und verkaufen sie auch nicht. Wir widersetzen uns klar gegen Ad-Tracking.";
+"Intro.Slides.Efficiency.Description" = "Qwant Junior vermittelt Ihnen die besten Ergebnisse sofort und absolut neutral. Nachrichten, Musik, soziale Netzwerke oder Videos: Sie können alles in absoluter Freiheit suchen.";
